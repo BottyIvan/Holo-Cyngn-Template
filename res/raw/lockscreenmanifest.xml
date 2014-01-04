@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lockscreen
+	frameRate="30"
+	version="1" >
+
+	<Wallpaper />
+
+	<Image
+		src="lock_screen_status_bar_bg.9.png"
+		x="0"
+		y="0" >
+	</Image>
+
+	<Image
+		category="Charging"
+		src="lock_screen_battery_charging_bar.png"
+		
+		x="0"
+		y="630" >
+	</Image>
+
+	<Image
+		category="BatteryLow"
+		src="lock_screen_battery_low_light.png"
+		x="0"
+		y="630" >
+	</Image>
+
+	<Text
+		align="center"
+		alpha="200"
+		category="Charging"
+		format="Charging(%d%%)"
+		paras="#battery_level"
+		size="24"
+		x="235"
+		y="730"
+		color="#ff00ff18" />
+
+	<Text
+		align="center"
+		alpha="200"
+		category="BatteryFull"
+		size="24"
+		text="Battery Full"
+		x="240"
+		y="730"
+		color="#ff00ff18" />
+
+	<Text
+		align="center"
+		alpha="200"
+		category="BatteryLow"
+		size="24"
+		text="Battery Low"
+		x="230"
+		y="730"
+		color="#ffff0000" />
+
+	<Unlocker name="unlocker" >
+
+		<StartPoint
+			h="138"
+			w="240"
+			x="120"
+			y="530" >
+
+			<NormalState>
+
+				<Image
+					src="lock_screen_button_bg.9.png"
+					x="0"
+					y="530" >
+				</Image>
+
+				<Image
+					category="Charging"
+					src="lock_screen_battery_charging_bg.9.png"
+					
+					x="0"
+					y="530" >
+				</Image>
+
+				<Image
+					category="BatteryLow"
+					src="lock_screen_battery_low_bg.9.png"
+					x="0"
+					y="530" >
+				</Image>
+
+				<Image
+					src="lock_screen_bar_call_bg_n.9.png"
+					x="10"
+					y="543" >
+				</Image>
+
+				<Image
+					src="lock_screen_bar_sms_bg_n.9.png"
+					x="370"
+					y="543" >
+				</Image>
+			</NormalState>
+
+			<PressedState>
+
+				<Image
+					src="lock_screen_button_bg_pressed.9.png"
+					x="0"
+					y="530" >
+				</Image>
+
+				<Image
+					category="Charging"
+					src="lock_screen_battery_charging_bg.9.png"
+					
+					x="0"
+					y="530" >
+				</Image>
+
+				<Image
+					category="BatteryLow"
+					src="lock_screen_battery_low_bg.9.png"
+					x="0"
+					y="530" >
+				</Image>
+
+				<Image
+					src="lock_screen_bar_call_bg_n.9.png"
+					x="10"
+					y="543" >
+				</Image>
+
+				<Image
+					src="lock_screen_bar_sms_bg_n.9.png"
+					x="370"
+					y="543" >
+				</Image>
+			</PressedState>
+		</StartPoint>
+
+		<EndPoint
+			h="200"
+			w="240"
+			x="120"
+			y="662" >
+
+			<Path>
+
+				<Position
+					x="120"
+					y="530" />
+
+				<Position
+					x="120"
+					y="750" />
+			</Path>
+		</EndPoint>
+	</Unlocker>
+
+	<Unlocker name="unlocker" >
+
+		<StartPoint
+			h="138"
+			w="120"
+			x="30"
+			y="580" >
+
+			<PressedState>
+
+				<Image
+					src="lock_screen_button_bg_pressed.9.png"
+					x="0"
+					y="530" >
+				</Image>
+
+				<Image
+					category="Charging"
+					src="lock_screen_battery_charging_bg.9.png"
+				
+					x="0"
+					y="530" >
+				</Image>
+
+				<Image
+					category="BatteryLow"
+					src="lock_screen_battery_low_bg.9.png"
+					x="0"
+					y="530" >
+				</Image>
+
+				<Image
+					src="lock_screen_bar_call_bg_p.9.png"
+					x="10"
+					y="543" >
+				</Image>
+
+				<Image
+					src="lock_screen_bar_sms_bg_n.9.png"
+					x="370"
+					y="543" >
+				</Image>
+			</PressedState>
+		</StartPoint>
+
+		<EndPoint
+			h="200"
+			w="120"
+			x="0"
+			y="662" >
+
+			<Intent
+				action="android.intent.action.VIEW"
+				type="vnd.android.cursor.dir/calls" />
+
+			<Path>
+
+				<Position
+					x="0"
+					y="530" />
+
+				<Position
+					x="0"
+					y="750" />
+			</Path>
+		</EndPoint>
+	</Unlocker>
+
+	<Unlocker name="unlocker" >
+
+		<StartPoint
+			h="138"
+			w="120"
+			x="360"
+			y="530" >
+
+			<PressedState>
+
+				<Image
+					src="lock_screen_button_bg_pressed.9.png"
+					x="0"
+					y="530" >
+				</Image>
+
+				<Image
+					category="Charging"
+					src="lock_screen_battery_charging_bg.9.png"
+				
+					x="0"
+					y="530" >
+				</Image>
+
+				<Image
+					category="BatteryLow"
+					src="lock_screen_battery_low_bg.9.png"
+					x="0"
+					y="530" >
+				</Image>
+
+				<Image
+					src="lock_screen_bar_call_bg_n.9.png"
+					x="10"
+					y="543" >
+				</Image>
+
+				<Image
+					src="lock_screen_bar_sms_bg_p.9.png"
+					x="370"
+					y="543" >
+				</Image>
+			</PressedState>
+		</StartPoint>
+
+		<EndPoint
+			h="200"
+			w="120"
+			x="360"
+			y="662" >
+
+			<Intent
+				action="android.intent.action.MAIN"
+				category="android.intent.category.DEFAULT"
+				type="vnd.android-dir/mms-sms" />
+
+			<Path>
+
+				<Position
+					x="360"
+					y="530" />
+
+				<Position
+					x="360"
+					y="750" />
+			</Path>
+		</EndPoint>
+	</Unlocker>
+
+	<Time
+		src="lock_screen_bar_time.png"
+		x="146"
+		y="570+#unlocker.move_y" />
+
+	<Image
+		alpha="#call_missed_count*255"
+		h="31"
+		src="lock_screen_preview_count.9.png"
+		w="31+(len(#call_missed_count)-1)*8"
+		x="70"
+		y="585+#unlocker.move_y" />
+
+	<Text
+		alpha="#call_missed_count*255"
+		format="%d"
+		paras="#call_missed_count"
+		size="18"
+		x="80"
+		y="587+#unlocker.move_y"
+		color="#AAFFFFFF" />
+
+	<Image
+		alpha="#sms_unread_count*255"
+		h="31"
+		src="lock_screen_preview_count.9.png"
+		w="31+(len(#sms_unread_count)-1)*8"
+		x="430"
+		y="585+#unlocker.move_y" />
+
+	<Text
+		alpha="#sms_unread_count*255"
+		format="%d"
+		paras="#sms_unread_count"
+		size="18"
+		x="440"
+		y="587+#unlocker.move_y"
+		color="#AAFFFFFF" />
+
+</Lockscreen>

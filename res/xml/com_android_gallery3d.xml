@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="mipmap/ic_launcher_gallery">@drawable/com_android_ic_launcher_gallery</item>
+    <item name="style/Holo.ActionBar">@drawable/android_ab_transparent_dark_holo.png</item>
+</resource-redirections>

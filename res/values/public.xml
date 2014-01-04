@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="preview" id="0x0202000b" />
+    <public type="drawable" name="wallpaper" id="0x0202000c" />
+    <public type="drawable" name="android_ab_transparent_dark_holo" id="0x02020000" />
+    <public type="drawable" name="android_background_holo_dark" id="0x02020001" />
+    <public type="drawable" name="ic_launcher" id="0x02020009" />
+    <public type="drawable" name="com_andrew_apollo_ic_launcher_apollo" id="0x02020002" />
+    <public type="drawable" name="com_android_browser_ic_launcher_browser" id="0x02020003" />
+    <public type="drawable" name="com_android_calendar_ic_launcher_calendar" id="0x02020004" />
+    <public type="drawable" name="com_android_camera2_ic_launcher_camera" id="0x02020005" />
+    <public type="drawable" name="com_android_contacts_ic_launcher_contacts" id="0x02020006" />
+    <public type="drawable" name="com_android_deskclock_ic_launcher_alarmclock" id="0x02020007" />
+    <public type="drawable" name="com_android_settings_ic_launcher_settings" id="0x02020008" />
+    <public type="drawable" name="icon" id="0x0202000a" />
+    <public type="xml" name="android" id="0x02030000" />
+    <public type="xml" name="com_andrew_apollo" id="0x02030001" />
+    <public type="xml" name="com_android_browser" id="0x02030002" />
+    <public type="xml" name="com_android_calendar" id="0x02030003" />
+    <public type="xml" name="com_android_camera2" id="0x02030004" />
+    <public type="xml" name="com_android_contacts" id="0x02030005" />
+    <public type="xml" name="com_android_deskclock" id="0x02030006" />
+    <public type="xml" name="com_android_gallery3d" id="0x02030007" />
+    <public type="xml" name="com_android_mms" id="0x02030008" />
+    <public type="xml" name="com_android_settings" id="0x02030009" />
+    <public type="xml" name="redirections" id="0x0203000a" />
+    <public type="raw" name="lockscreenmanifest" id="0x02040000" />
+    <public type="color" name="android_background_holo_light" id="0x02050000" />
+    <public type="string" name="app_name" id="0x02060000" />
+    <public type="string" name="theme_name" id="0x02060001" />
+    <public type="string" name="style_appearance_name" id="0x02060002" />
+    <public type="string" name="author" id="0x02060003" />
+    <public type="string" name="copyright" id="0x02060004" />
+    <public type="style" name="Templatebread" id="0x02070000" />
+</resources>
