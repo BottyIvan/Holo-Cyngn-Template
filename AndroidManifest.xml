@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest android:versionCode="3" android:installLocation="internalOnly" package="com.botty.theme" xmlns:android="http://schemas.android.com/apk/res/android" android:versionName="1.2" android:hasCode="false" xmlns:pluto="http://www.w3.org/2001/pluto.html">
+ <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="9"/>
+ <uses-feature android:name="com.tmobile.software.themes"/>
+ <application android:icon="@drawable/ic_launcher" name="Holo-Cyngn" android:hasCode="false" android:label="Holo-Cyngn"/>
+ <theme pluto:wallpaperImage="@drawable/wallpaper" pluto:ringtoneFileName="media/audio/ringtones/Standard.mp3" pluto:preview="@drawable/preview" pluto:styleName="@string/style_appearance_name" pluto:ringtoneName="Standard" pluto:name="@string/theme_name" pluto:author="@string/author" pluto:notificationRingtoneName="Subtle" pluto:themeId="Templatebread" pluto:notificationRingtoneFileName="media/audio/notifications/Subtle.mp3" pluto:styleId="@style/Templatebread" pluto:copyright="@string/copyright"/>
+</manifest>
