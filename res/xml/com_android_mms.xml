@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
     <item name="mipmap/ic_launcher_smsmms">@drawable/com_android_mms_ic_launcher_smsmms</item>
+    <item name="drawable/hairline_left">@drawable/msg_bubble_left</item>
+    <item name="drawable/hairline_right">@drawable/msg_bubble_right</item>
 </resource-redirections>

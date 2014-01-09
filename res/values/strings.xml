@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
- <string name="app_name">Templatebread Theme</string>
- <string name="theme_name">Holo-Cyngn</string>
- <string name="style_appearance_name">Templatebread</string>
- <string name="author">Ivan Botty</string>
- <string name="copyright">Ivan Botty | GnexusHD</string>
+    <string name="app_name">Templatebread Theme</string>
+    <string name="theme_name">Holo-Cyngn</string>
+    <string name="style_appearance_name">Templatebread</string>
+    <string name="author">Ivan Botty</string>
+    <string name="copyright">Ivan Botty | GnexusHD</string>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+    <item name="drawable/background_holo_light">@drawable/android_background_holo_light</item>
     <item name="drawable/ab_transparent_dark_holo">@drawable/android_ab_transparent_dark_holo</item>
-    <item name="color/background_holo_light">@color/android_background_holo_light</item>
     <item name="drawable/background_holo_dark">@drawable/android_background_holo_dark</item>
 </resource-redirections>
