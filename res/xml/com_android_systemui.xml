@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/qs_tile_background">@drawable/qs_tile_background</item>
+</resource-redirections>

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-    <item name="mipmap/ic_launcher_smsmms">@drawable/com_android_mms_ic_launcher_smsmms</item>
-    <item name="drawable/hairline_left">@drawable/msg_bubble_left</item>
-    <item name="drawable/hairline_right">@drawable/msg_bubble_right</item>
+    <item name="drawable/hairline_left">@drawable/com_android_mms_hairline_left</item>
+    <item name="drawable/hairline_right">@drawable/com_android_mms_hairline_right</item>
+    <item name="drawable/msg_bubble_left">@drawable/com_android_mms_msg_bubble_left</item>
+    <item name="drawable/msg_bubble_right">@drawable/com_android_mms_msg_bubble_right</item>
+    <item name="style/MmsHoloTheme">@style/Theme.Cyngntext</item>
 </resource-redirections>
