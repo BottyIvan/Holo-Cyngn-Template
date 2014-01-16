@@ -52,7 +52,7 @@
     <item name="drawable/switch_bg_disabled_holo_dark">@drawable/holocyngnv1_switch_bg_disabled_holo_dark</item>
     <item name="drawable/switch_bg_focused_holo_dark">@drawable/holocyngnv1_switch_bg_focused_holo_dark</item>
     <item name="drawable/switch_bg_holo_dark">@drawable/holocyngnv1_switch_bg_holo_dark</item>
-    <item name="drawable/switch_thumb_activated_holo_dark">@drawable/holocyngnv1_switch_thumb_activated_holo_dark.9</item>
+    <item name="drawable/switch_thumb_activated_holo_dark">@drawable/holocyngnv1_switch_thumb_activated_holo_dark</item>
     <item name="drawable/switch_thumb_disabled_holo_dark">@drawable/holocyngnv1_switch_thumb_disabled_holo_dark</item>
     <item name="drawable/switch_thumb_holo_dark">@drawable/holocyngnv1_switch_thumb_holo_dark</item>
     <item name="drawable/switch_thumb_pressed_holo_dark">@drawable/holocyngnv1_switch_thumb_pressed_holo_dark</item>
@@ -63,11 +63,12 @@
     <item name="drawable/scrubber_control_normal_holo">@drawable/holocyngnv1_scrubber_control_normal_holo</item>
     <item name="drawable/scrubber_control_pressed_holo">@drawable/holocyngnv1_scrubber_control_pressed_holo</item>
     <item name="drawable/scrubber_primary_holo">@drawable/holocyngnv1_scrubber_primary_holo</item>
-    <item name="drawable/scrubber_progress_horizontal_holo_dark">@drawable/holocyngnv1_scrubber_control_selector_holo_dark</item>
+    <item name="drawable/scrubber_progress_horizontal_holo_dark">@drawable/holocyngnv1_scrubber_progress_horizontal_holo_dark</item>
     <item name="drawable/scrubber_secondary_holo">@drawable/holocyngnv1_scrubber_secondary_holo</item>
     <item name="drawable/scrubber_track_holo_dark">@drawable/holocyngnv1_scrubber_track_holo_dark</item>
     
     <!-- scrollbar -->
     <item name="drawable/fastscroll_thumb_default_holo">@drawable/holocyngnv1_fastscroll_thumb_default_holo</item>
     <item name="drawable/fastscroll_thumb_pressed_holo">@drawable/holocyngnv1_fastscroll_thumb_pressed_holo</item>
+    
 </resource-redirections>
