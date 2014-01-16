@@ -1,5 +1,5 @@
 <!--
- # Copyright (C) {} {}
+ # Copyright (C) 2014 GnexusHD
  #
  # Licensed under the Apache License, Version 2.0 (the "License");
  # you may not use this file except in compliance with the License.
@@ -19,7 +19,9 @@ For now, the theme is free but all rights are reserved! If you want to use as a 
 
 That being said I hope you like it!
 
+A big thanks to Thomas Maneggia for her help with the icon !!
+
 if you want to give some advice : <droidbotty@gmail.com>;<plus.google.com/+IvanBotty>.
-if you want to be updated : <https://plus.google.com/u/0/b/112977683168945771364/112977683168945771364/posts>.
+if you want to be updated : <http://gnexushd.altervista.org/blog/category/holo-cyngn/>.
 
 - by Ivan Botty, GnexusHD Team.                 GnexusHD  © 2014
