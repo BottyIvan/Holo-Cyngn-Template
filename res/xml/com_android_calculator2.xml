@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resource-redirections>
-    <item name="mipmap/ic_launcher_calculator">@drawable/ic_launcher_calculator</item>
-</resource-redirections>
