@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="Templatebread" parent="@android:style/Theme" />
-    <style name="Holo.chat" parent="@android:style/Widget.Holo.ProgressBar.Small.Inverse" />
+    <style name="Holo.chat" parent="@android:style/Widget.Holo.Spinner.DropDown" />
     <style name="Theme.Cyngntext" parent="@android:style/Theme.Holo.Light.DarkActionBar">
         <item name="android:dropDownListViewStyle">@style/DropDownListView.Cyngntext</item>
         <item name="android:actionBarStyle">@style/ActionBar.Solid.Cyngntext</item>
@@ -215,4 +215,5 @@
         <item name="android:fastScrollThumbDrawable">@drawable/holocyngnv1_fastscroll_thumb_holo</item>
         <item name="android:editTextBackground">@drawable/holocyngnv1_edit_text_holo_dark</item>
     </style>
+    <style name="holocyngnv1" parent="@android:style/Theme.Holo" />
 </resources>

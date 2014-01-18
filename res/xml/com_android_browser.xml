@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resource-redirections />
+<resource-redirections>
+    <item name="mipmap/ic_launcher_browser">@drawable/app_browser</item>
+    <item name="drawable/progress">@drawable/prog_browser</item>
+</resource-redirections>

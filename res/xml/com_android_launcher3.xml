@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/ic_allapps">@drawable/ic_allapps</item>
+    <item name="drawable/ic_allapps_pressed">@drawable/ic_allapps_pressed</item>
+    <item name="drawable/portal_ring_inner_holo">@drawable/portal_ring_inner_holo</item>
+    <item name="drawable/portal_ring_inner_nolip_holo">@drawable/portal_ring_inner_nolip_holo</item>
+    <item name="drawable/portal_ring_rest">@drawable/portal_ring_rest</item>
+    <item name="drawable/portal_ring_outer_holo">@drawable/portal_ring_outer_holo</item>
+    <item name="drawable/overscroll_glow_left">@drawable/overscroll_glow_left</item>
+    <item name="drawable/overscroll_glow_right">@drawable/overscroll_glow_right</item>
+</resource-redirections>
